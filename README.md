@@ -43,7 +43,7 @@ Install these 6 AI agents tonight and they'll run your content, support and ads 
 | **[The HOPS Team](https://github.com/jupiter-revenue-systems/hops-team)** | 6 plug-in AI agents that run your content, blog, site, support and ads in your voice. Works with Claude. | **$37** · [Get it](https://ekaistone.com/hops) |
 | **[Instagram Sales Agent](https://github.com/jupiter-revenue-systems/instagram-sales-agent)** | Your own AI sales agent in your Instagram DMs. It answers, qualifies and books in your voice, and you give it a name. Runs on ARIA. | **From $27** · [Get it](https://ekaistone.com/ig-sales-agent) |
 | **[Signal Engine](https://github.com/jupiter-revenue-systems/signal-engine)** | Pixel plus Conversions API with shared event IDs, so Meta counts every sale once. Ships inside every Seven Star Build. | **Licensed** · [Apply](https://ekaistone.com/seven-star/apply) |
-| **[The Seven Star Build](https://github.com/jupiter-revenue-systems/seven-star-build)** | You built the course. I build everything that sells it. Built in a day, live inside 7 days. | **From $15,000** · [See the Build](https://ekaistone.com/seven-star/build) |
+| **[The Seven Star Build](https://github.com/jupiter-revenue-systems/seven-star-build)** | Your whole business, rebuilt around AI agents, on accounts you own. For telehealth clinics, coaches, consultants, creators and agency owners. Live in 7 days. | **From $15,000** · [See the Build](https://ekaistone.com/seven-star/build) |
 
 > **ARIA and the Signal Engine are proprietary Jupiter Revenue Systems engines.** They're licensed inside every build, never published as source. Paid repositories are private to buyers; each one has a public page here with everything it does and how to get access.
 
