@@ -45,6 +45,18 @@ Install these 6 AI agents tonight and they'll run your content, support and ads 
 | **[Signal Engine](https://github.com/jupiter-revenue-systems/signal-engine)** | Pixel plus Conversions API with shared event IDs, so Meta counts every sale once. Ships inside every Seven Star Build. | **Licensed** · [Apply](https://ekaistone.com/seven-star/apply) |
 | **[The Seven Star Build](https://github.com/jupiter-revenue-systems/seven-star-build)** | Turn your business into an AI-first company, on accounts you own. For telehealth clinics, coaches, consultants, creators and agency owners. Live in 7 days. | **From $15,000** · [See the Build](https://ekaistone.com/seven-star/build) |
 
+## Free and open source
+
+| | |
+|---|---|
+| **[AI-First Company Assessment](https://github.com/jupiter-revenue-systems/ai-first-company-assessment)** | Assess how AI-first your business is in 3 minutes, with questions for telehealth, coaching, creator and agency businesses. JavaScript. [Take it](https://ekaistone.com/ai-first-assessment) |
+| **[AI Search Readiness Audit](https://github.com/jupiter-revenue-systems/ai-search-readiness-audit)** | One command checks what ChatGPT, Perplexity, Claude and Google AI can see on your site. Python CLI. |
+| **[Entitlement Verification Gate](https://github.com/jupiter-revenue-systems/n8n-entitlement-verification-gate)** | Zero-trust delivery for digital products: every request matches a verified purchase before anything ships. n8n. |
+| **[Passwordless Portal Auth](https://github.com/jupiter-revenue-systems/n8n-passwordless-portal-auth)** | Email codes and Google sign-in for a client portal, with signed sessions. n8n + PostgreSQL. |
+| **[Always-On AI Mac Mini](https://github.com/jupiter-revenue-systems/always-on-ai-mac-mini)** | Turn a Mac mini into a 24/7 AI agent machine, with a one-command setup script. Shell. |
+| **[Framer Revenue Calculators](https://github.com/jupiter-revenue-systems/framer-revenue-calculators)** | Instagram revenue, Meta ads profit and funnel revenue calculators as Framer components. TypeScript. |
+| **[The Done Rule](https://github.com/jupiter-revenue-systems/claude-done-rule)** | A drop-in CLAUDE.md / AGENTS.md rule that stops AI agents from saying "done" without proof. |
+
 > **ARIA and the Signal Engine are proprietary Jupiter Revenue Systems engines.** They're licensed inside every build, never published as source. Paid repositories are private to buyers; each one has a public page here with everything it does and how to get access.
 
 ## Built with
